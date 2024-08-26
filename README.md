@@ -20,3 +20,6 @@ Database: [e.g., MongoDB, MySQL, PostgreSQL]
 
 Additional tools: [e.g., Bootstrap, RESTful API, GraphQL]
 
+![Screenshot (65)](https://github.com/user-attachments/assets/c1e32c2c-ec1b-4bc4-ac2f-a1d7b1525e32)
+![Screenshot (66)](https://github.com/user-attachments/assets/b1f32557-011e-433f-8b1f-298046043f39)
+![Screenshot (67)](https://github.com/user-attachments/assets/ba6c045c-5ec3-498d-afde-21007c18f343)
