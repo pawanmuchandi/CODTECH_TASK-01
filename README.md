@@ -1,6 +1,6 @@
 # CODTECH_TASK-01
 
-Nmae: Pawan Mahadev Muchandi
+Name: Pawan Mahadev Muchandi
 
 Intern ID: CT08DS6309
 
